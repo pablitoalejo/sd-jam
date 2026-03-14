@@ -1,6 +1,6 @@
 # How Might We Make Thinking Visible?
 
-10 variations grounded in our research synthesis, each targeting a specific audience and outcome.
+20 variations grounded in our research synthesis, each targeting a specific audience and outcome.
 
 ---
 
@@ -33,3 +33,33 @@
 
 10. **How might we help experienced facilitators show a group the moment false consensus formed — the exact exchange where the box got checked** so that the team can revisit the actual disagreement rather than leaving in swirl?
 *Grounded in Sergio's quote: "We check the box, yeah. We walk away thinking we agree, and nobody has really agreed. Then you're in swirl."*
+
+11. **How might we give analog workshop participants a tactile way to show their confidence level in a shared decision** so that a group can see — at a glance — whether they have genuine conviction or just polite agreement before committing to a direction?
+*Grounded in Sergio's false consensus finding: "We check the box, yeah. We walk away thinking we agree, and nobody has really agreed. Then you're in swirl."*
+
+12. **How might we provide seasoned jammers with a structured way to make their expert mental models legible to first-timers on the same team** so that veterans can contribute at full speed without leaving newcomers unable to build on what they've put into the room?
+*Grounded in Yosef's observation that the jam experience is "totally different" from first to fifth time, and Brandon's note that "not everybody was starting with the same parameters."*
+
+13. **How might we give workshop facilitators a live visual read of where each working group's thinking currently sits** so that they can intervene as a pollinator before two groups unknowingly duplicate work or produce irreconcilable directions?
+*Grounded in Brandon's pollinator role — "constantly making sure we didn't get siloed" — and the absence of any cross-group visibility structure in the current state.*
+
+14. **How might we give domain experts translating technical concepts to non-specialists a reusable analogy library built from their own past sessions** so that they can reach for a frame that already worked instead of improvising one under time pressure?
+*Grounded in Jeffery's elevator-and-floors analogy and Yosef's technique of grounding service design in whatever the listener already does for work.*
+
+15. **How might we make the evolution of a group's shared understanding visible as a timeline artifact during a workshop** so that participants can see exactly when an assumption shifted and anchor a new decision to that turning point rather than the outdated one?
+*Grounded in Bianca's aha moment: "It was the moment someone verbalized what their bias of alignment meant to them... and someone else said, 'Oh, wait, that's not how I was thinking about it at all.'"*
+
+16. **How might we give facilitators in hierarchical organizations a pre-session priming ritual that visually externalizes each participant's role context** so that the group can consciously bracket seniority before ideation begins, reducing the chance that title shapes whose ideas get built on?
+*Grounded in Amber's finding: "Especially in more hierarchical organizations, it becomes more difficult to have good sessions — there is that hesitation to speak up."*
+
+17. **How might we help cross-functional teams using acronyms and domain shorthand create a visible, living glossary in the room as the session unfolds** so that a term introduced by one specialist is immediately legible to the three people in the room who know it as something else?
+*Grounded in Amber's practice of spelling out the CRM as "customer relationship management platform" — and her observation that "I know other people are having that internal dialog."*
+
+18. **How might we give teams at the end of a long workshop a structured visual retrospective of every idea that was surfaced but not pursued** so that a participant who generated a promising thread they never voiced can see it honored and potentially reopened rather than permanently lost?
+*Grounded in Brandon's pain point: "The idea dies as soon as you leave it — so why don't you capture it as it's happening?"*
+
+19. **How might we help first-time jam participants externalize what they already know about the problem space through a structured artifact before any group ideation begins** so that they can enter the collaborative phase as visible contributors rather than passive observers waiting for an expert to tell them what to think?
+*Grounded in Preston's quote: "The context of the jam needs to be understood before going into sessions" — and his linking of orientation directly to willingness to contribute.*
+
+20. **How might we give quietly engaged participants in a workshop a non-verbal signal they can use in real time to show that something just clicked** so that facilitators can recognize an aha moment as it forms and create space for it to be spoken before it disappears?
+*Grounded in Theme 7's anatomy of the aha moment — that pivots depend on "someone willing to speak up" — and Sergio's observation that the most challenging barriers to communication are intrinsic and require self-awareness to name.*
