@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "copilot-memory": {
+      "command": "node",
+      "args": ["/Users/pabs/.claude/copilot/mcp-servers/copilot-memory/dist/index.js"],
+      "env": {
+        "MEMORY_PATH": "/Users/pabs/.claude/memory",
+        "WORKSPACE_ID": "sd-jam"
+      }
+    },
+    "skills-copilot": {
+      "command": "node",
+      "args": ["/Users/pabs/.claude/copilot/mcp-servers/skills-copilot/dist/index.js"],
+      "env": {
+        "LOCAL_SKILLS_PATH": "./.claude/skills"
+      }
+    }
+  }
+}

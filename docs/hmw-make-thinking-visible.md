@@ -56,7 +56,7 @@
 *Grounded in Bianca's verbatim account — "uncovering that in the workshop was critical to actually being able to move forward" — the highest-signal theme across 8 of 9 participants.*
 
 18. **How might we make our thinking visible by creating a persistent shared artifact that evolves throughout the session** so that returning participants in a multi-day workshop can reconstruct what the group concluded yesterday without having to rely on memory or notes taken by one person?
-*Grounded in Brandon's echoing-as-conversational-memory technique and the pain point that insight captured at the end often loses the context of when and why it emerged.*
+*Grounded in Brandon's echoing-as-conversational-memory technique, the pain point that insight captured at the end often loses the context of when and why it emerged.*
 
 19. **How might we make thinking visible through a structured assumption-surfacing exercise at key decision points** so that senior stakeholders in a workshop can examine the beliefs driving their position before those beliefs become the unspoken premise of a group direction?
 *Grounded in Theme 7's anatomy of aha moments — "someone named something that had been implicit" — and Bianca's pivot moment when a bias was verbalized: "Oh, then we can't proceed."*
